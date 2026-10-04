@@ -102,7 +102,7 @@ Test scenarios and test cases in this repository are mapped to different stages 
 
 ## Workflow Diagram
 
-![Fixed Asset Management Workflow](./fixed-asset-workflow.png)
+![Fixed Asset Management Workflow](./Fixed Asset Management Workflow.png)
 
 ---
 
