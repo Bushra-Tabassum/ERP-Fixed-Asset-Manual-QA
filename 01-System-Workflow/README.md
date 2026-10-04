@@ -99,11 +99,4 @@ This workflow was used as the foundation for:
 Test scenarios and test cases in this repository are mapped to different stages of this workflow.
 
 ---
-
-## Workflow Diagram
-
-![Fixed Asset Management Workflow](./Fixed Asset Management Workflow.png)
-
----
-
 > All workflow information shown in this portfolio has been sanitized and simplified. No confidential company or client information is included.
