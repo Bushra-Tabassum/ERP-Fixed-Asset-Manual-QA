@@ -4,7 +4,7 @@ This section contains detailed manual test cases for selected high-risk workflow
 
 Rather than covering every screen superficially, this portfolio focuses on deeper testing of two important areas:
 
-# Asset Finalization Test Cases
+## Asset Finalization Test Cases
 
 This folder contains detailed manual test cases for the Asset Finalization workflow within the Fixed Asset Management module.
 
@@ -19,8 +19,6 @@ The test cases cover:
 - Integration scenarios
 - Error handling
 - Boundary and edge cases
-
-The full test case workbook is available here:
 
 
 ## Monthly Depreciation Test Cases
@@ -46,13 +44,5 @@ The test cases cover:
 - Permission and role testing
 - Error handling
 - Boundary and edge cases
-
-The full test case workbook is available here:
-
-**Monthly_Depreciation_testcases.xlsx**
-
-> All data has been sanitized or recreated for portfolio purposes.
-
-The test cases include positive, negative, validation, business-rule, permission, calculation, and workflow scenarios.
 
 > All data has been sanitized or recreated for portfolio purposes.
